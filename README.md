@@ -144,7 +144,7 @@ If you use the code, please cite the paper:
 
 > ```latex
 > @inproceedings{li2019chinese,
->   title={Chinese Relation Extraction with Multi-Grained Information andExternal Linguistic Knowledge},
+>   title={Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge},
 >   author={Li, Ziran and Ding, Ning and Liu, Zhiyuan and Zheng, Hai-Tao and Shen, Ying},
 >   booktitle={Proceedings of ACL 2019},
 >   year={2019}
