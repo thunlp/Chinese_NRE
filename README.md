@@ -15,11 +15,11 @@ Source code for ACL 2019 paper "Chinese Relation Extraction with Multi-Grained I
 
 Three datasets are used in our paper:
 
-- **FinRE: ** A manual-labeled financial news RE dataset. The data cannot be made public for the time being.
+- **FinRE**:  A manual-labeled financial news RE dataset. The data cannot be made public for the time being.
 
 
-- **SanWen: ** A  Chinese literature NER-RE dataset, the source of the dataset is  [https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset). 
-- **ACE 2005: ** A benchmark RE dataset. According to the terms of **LDC**, we are not allowed to share the dataset with the third party. If you have the LDC license, please obtain the dataset (LDC2006T06) and follow the data format by yourself.
+- **SanWen**:  A  Chinese literature NER-RE dataset, the source of the dataset is  [https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset). 
+- **ACE 2005**:  A benchmark RE dataset. According to the terms of **LDC**, we are not allowed to share the dataset with the third party. If you have the LDC license, please obtain the dataset (LDC2006T06) and follow the data format by yourself.
 
 In this project, `train.txt` , `dev.txt` and `test.txt` are all from **SanWen**.
 
