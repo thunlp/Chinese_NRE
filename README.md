@@ -109,25 +109,25 @@ MG-Lattice
 Arguments are set in `configure.py`, the default values are for **SanWen** dataset. The full usage is:
 
 ```tex
--- savemodel  					path to save the model					
--- loadmodel					path to load the model					
--- savedset						path to load the data settings 			
+-- savemodel  			path to save the model					
+-- loadmodel			path to load the model					
+-- savedset			path to load the data settings 			
 
--- public_path					the parent path of the dataset 			(data/)
--- dataset          			the folder name of dataset				(SanWen/)
--- train_file					train dataset  							(train.txt)
--- dev_file						developement dataset  					(dev.txt)
--- test_file					test dataset  							(test.txt)
--- relation2id					map relation to id  					(relation2id.txt)
--- char_emb_file				pre-trained char embeddings 			(vec.txt)
--- sense_emb_file				pre-trained sense embeddings 			(sense.txt)
--- word_sense_map				record polysemous words 				(sense_map.txt)
--- max_length					the max length of the input				
+-- public_path			the parent path of the dataset 			(data/)
+-- dataset          		the folder name of dataset			(SanWen/)
+-- train_file			train dataset  					(train.txt)
+-- dev_file			developement dataset  				(dev.txt)
+-- test_file			test dataset  					(test.txt)
+-- relation2id			map relation to id  				(relation2id.txt)
+-- char_emb_file		pre-trained char embeddings 			(vec.txt)
+-- sense_emb_file		pre-trained sense embeddings 			(sense.txt)
+-- word_sense_map		record polysemous words 			(sense_map.txt)
+-- max_length			the max length of the input				
 					
--- Encoder						Specify which encoder to use
--- Optimizer					Specify which optimizier to use
--- lr							learning rate							
--- weights_mode					mode to set weights for each class in loss function
+-- Encoder			Specify which encoder to use
+-- Optimizer			Specify which optimizier to use
+-- lr				learning rate							
+-- weights_mode			mode to set weights for each class in loss function
 ```
 
  With appropriate configuration and data preparation, you can run the model by:
