@@ -97,9 +97,9 @@ MG-Lattice
 	|	|-- valid.txt
 	|	|-- test.txt
 	|	|-- relation2id.txt
-    |
-    |-- DATASET_NAME_2
-    	|-- ...
+    	|
+   	|-- DATASET_NAME_2
+    		|-- ...
 ```
 
 
