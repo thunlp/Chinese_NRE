@@ -1,6 +1,6 @@
 # Chinese-NRE
 
-Source code for ACL 2019 paper "Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge".  Some code in this repository is based on the excellent open-source project https://github.com/jiesutd/LatticeLSTM. The paper will be published by the official process of ACL2019.
+Source code for ACL 2019 paper "[Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_nre4chinese.pdf)".  Some code in this repository is based on the excellent open-source project https://github.com/jiesutd/LatticeLSTM.
 
 
 
