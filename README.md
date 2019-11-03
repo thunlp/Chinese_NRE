@@ -144,13 +144,13 @@ If you use the code, please cite the paper:
 
 
 > ```latex
-@inproceedings{li2019chinese,
-  title={Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge},
-  author={Li, Ziran and Ding, Ning and Liu, Zhiyuan and Zheng, Hai-Tao and Shen, Ying},
-  booktitle={Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
-  pages={4377--4386},
-  year={2019}
-}
+> @inproceedings{li2019chinese,
+>  title={Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge},
+>  author={Li, Ziran and Ding, Ning and Liu, Zhiyuan and Zheng, Hai-Tao and Shen, Ying},
+>  booktitle={Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+>  pages={4377--4386},
+>  year={2019}
+>}
 > ```
 
 
