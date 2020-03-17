@@ -1,6 +1,6 @@
 # Chinese-NRE
 
-**Update: We release the manually annotated financial relation extraction dataset, FinRE, which contains 44 relations (bidirectional) and 18000+ instances. Feel free to download and obtain the dataset, and please cite our paper if you use the dataset in your work.**
+**Update: We release the manually annotated financial relation extraction dataset FinRE in ``data/FinRE``, which contains 44 relations (bidirectional) and 18000+ instances. Feel free to download and obtain the dataset, and please cite our paper if you use the dataset in your work.**
 
 Source code for ACL 2019 paper "[Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_nre4chinese.pdf)".  Some code in this repository is based on the excellent open-source project https://github.com/jiesutd/LatticeLSTM.
 
@@ -152,7 +152,7 @@ If you use the code, please cite the paper:
 >  booktitle={Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
 >  pages={4377--4386},
 >  year={2019}
->}
+> }
 > ```
 
 
